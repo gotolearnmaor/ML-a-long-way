@@ -29,8 +29,7 @@
 1.每个模型独立，可以并行计算，训练速度快  
 
 2.减小方差（variance）,对于选择性偏差（bais）影响很小
-
-<img src='image/CodeCogsEqn.png' >
+![image](https://github.com/gotolearnmaor/ML-a-long-way/blob/master/image/CodeCogsEqn.png)
 
 所以 Bagging后的偏差与单个模型相近。
 
