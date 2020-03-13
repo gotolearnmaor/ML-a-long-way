@@ -30,7 +30,7 @@
 
 2.减小方差（variance）,对于选择性偏差（bais）影响很小
 
-![](image/CodeCogsEqn.png) 
+![avatar](image/CodeCogsEqn.png) 
 
 所以 Bagging后的偏差与单个模型相近。
 
