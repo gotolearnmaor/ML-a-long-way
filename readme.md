@@ -8,3 +8,4 @@
 
 ###         首先来个成长路线镇楼，图中知识会逐步填坑
 
+<img src='images/c5898d90edd1fe85ee3b744aeda6c42.jpg' width = '100'>
